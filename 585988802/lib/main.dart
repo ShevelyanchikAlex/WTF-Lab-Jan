@@ -21,6 +21,7 @@ import 'screens/timeline_screen/timeline_state.dart';
 import 'theme/custom_theme.dart';
 import 'theme/theme_bloc.dart';
 
+//comment
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(
